@@ -1,7 +1,7 @@
 object ListsAndGCD {
 
   def main(args: Array[String]) {
-    /* Enter your code here. Read input from STDIN. Print output to STDOUT. Your class should be named Solution */
+
     import scala.io.StdIn
     import scala.collection.immutable.TreeMap
 
